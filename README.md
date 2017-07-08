@@ -1,4 +1,5 @@
-# 74LVC125APW consists of four non-inverting buffers/line drivers with 3-state outputs 
+# 74LVC125APW 
+It consists of four non-inverting buffers/line drivers with 3-state outputs 
 (nY) that are controlled by the output enable input (nOE
 ). A HIGH at nOE
  causes the 
